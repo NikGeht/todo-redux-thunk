@@ -100,6 +100,6 @@ export const useTodo = () => {
 		handlerSort,
 		handlerToggleModal,
 		filteredTodos,
-        isModalOpen,
+		isModalOpen,
 	};
 };
